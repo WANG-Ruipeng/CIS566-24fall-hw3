@@ -1,4 +1,4 @@
-# CIS 5660 HW03 Procedural Buildings
+# CIS 5660 HW03 Procedural Building
 
 # Demo
 
