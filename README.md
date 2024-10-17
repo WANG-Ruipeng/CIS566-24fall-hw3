@@ -1,7 +1,5 @@
 # CIS 5660 HW03 Procedural Buildings
 
-# CIS 566 hw3
-
 # Demo
 
 https://github.com/user-attachments/assets/210ce985-a7b0-4c1f-b1ed-f3d2cca6994d
