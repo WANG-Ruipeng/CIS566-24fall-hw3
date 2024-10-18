@@ -19,6 +19,17 @@ These elements are seamlessly integrated into the building, allowing for flexibl
 
 ![image.png](image%202.png)
 
-Finally, I incorporated features like pillars, borders, and supports for overhanging floors. The user interface includes adjustable parameters to modify building dimensions and details dynamically.
+I also incorporated features like pillars, borders, and supports for overhanging floors. The user interface includes adjustable parameters to modify building dimensions and details dynamically.
 
 ![image.png](image%203.png)
+
+There is a node used to control the the height and width of the windows
+
+![image](https://github.com/user-attachments/assets/046db32e-dca7-4c9d-b4f5-bd617876a702)
+
+Also, you can control the window to be single or double in this node:
+| Single Window | Double Window |
+| ---- | ---- | 
+|![image](https://github.com/user-attachments/assets/4565a571-4b7e-4906-ad9f-2419cebde230)|![Double](https://github.com/user-attachments/assets/086b6b66-1f74-46c3-ab1a-f942f542df4f)|
+
+
