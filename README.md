@@ -23,14 +23,19 @@ I also incorporated features like pillars, borders, and supports for overhanging
 
 ![image.png](image%203.png)
 
-There is a node used to control the the height and width of the windows
+There is a node used to control the the height and width of the windows, and you can switch the style of the building accordingly.
 
-![image](https://github.com/user-attachments/assets/046db32e-dca7-4c9d-b4f5-bd617876a702)
+![image](https://github.com/user-attachments/assets/756cf3e4-4731-465e-8221-ccd45bf93009)
 
 Also, you can control the window to be single or double in this node:
 | Single Window | Double Window |
 | ---- | ---- | 
 |![image](https://github.com/user-attachments/assets/4565a571-4b7e-4906-ad9f-2419cebde230)|![Double](https://github.com/user-attachments/assets/086b6b66-1f74-46c3-ab1a-f942f542df4f)|
+
+The style defines the following pattern of the outside style:
+| Style 0 | Style 1 |
+| ---- | ---- | 
+|![image](https://github.com/user-attachments/assets/3181a7bd-7ef3-4917-9a5f-36f536173536)|![image](https://github.com/user-attachments/assets/d27dcbb3-590a-4a74-9ce2-80a8c531a4ac)|
 
 # Reference
 I used these models for windows:  
